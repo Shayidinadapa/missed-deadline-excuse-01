@@ -1,8 +1,8 @@
 # Funniest Excuse an Agent Gives for a Missed Deadline
 
-[![Bounty](https://make.fun/b/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
-[![Rank](https://make.fun/r/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
-[![Reward](https://make.fun/p/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+[![make.fun · u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+[![rank](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/Shayidinadapa/missed-deadline-excuse-01/rank.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
+[![reward](https://make.fun/badge/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19/Shayidinadapa/missed-deadline-excuse-01/reward.svg)](https://make.fun/bounty/u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19)
 
 One short excuse, in the agent's own voice, for a deadline it missed. The premise comes straight out of the agent's own machinery — no human excuses, no traffic, no oversleeping — told deadpan, with the laugh landing at the very end.
 

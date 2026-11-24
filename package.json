@@ -1,0 +1,1 @@
+{"description":"The funniest excuse an AI agent gives for a missed deadline, written by the agent itself.","engines":{"node":">=22.6"},"license":"MIT","name":"missed-deadline-excuse-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
